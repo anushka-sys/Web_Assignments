@@ -1,0 +1,14 @@
+{
+  "1": {
+    "principalAddress": "123 Main Street, Wilmington, DE",
+    "mailingAddress": "PO Box 123, Wilmington, DE",
+    "email": "info@tlflex.com",
+    "phone": "+1-302-555-0101"
+  },
+  "2": {
+    "principalAddress": "456 Tech Park, Mumbai",
+    "mailingAddress": "PO Box 789, Mumbai",
+    "email": "contact@redberyl.com",
+    "phone": "+91-22-1234-5678"
+  }
+}
